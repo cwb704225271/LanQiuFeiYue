@@ -1,5 +1,5 @@
-# 牛元帅茶楼-官方直营
+# 旭动篮球--国民篮球比拼平台
 
-We are a platform dedicated to selling all kinds of high-quality tea, users can purchase a variety of teas on our platform. All the teas on our platform are professionally tested and certified to ensure that consumers are buying the latest and highest quality tea.
+我们是一个提供各项篮球赛事相关功能的平台。用户可以通过我们的平台获取最新的篮球赛事，开展篮球比赛项目，开启篮球比赛赛程等最新任务功能。让打篮球不再找不到队友和对手，让打篮球可以成为每天活动的必备项目。
 
-If you have any questions, please contact our technical support email address: xiangyupao@foxmail.com，Thank you for your support.
+如有任何疑问，请联系技术支持电子邮件：nno2wo@yeah.net，感谢您的支持。
